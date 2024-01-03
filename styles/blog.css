@@ -1,12 +1,19 @@
 div{
-  background-color: yellow;
+  background-color: aliceblue;
   padding: 10px;
   margin-bottom: 10px;
   box-shadow: 10px 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
 }
 #ok{
-  background-color: red;
+  background-color: aqua;
 }
 img{
   width: 300px;
+}
+.nayok{
+  background-color: burlywood;
+  margin: 10px;
+  border-radius: 20px;
 }
