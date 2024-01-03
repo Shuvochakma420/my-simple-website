@@ -6,9 +6,6 @@ div{
   margin: 10px;
   border-radius: 10px;
 }
-#ok{
-  background-color: aqua;
-}
 img{
   width: 300px;
 }
@@ -16,4 +13,7 @@ img{
   background-color: burlywood;
   margin: 10px;
   border-radius: 20px;
+}
+.photo{
+  height: 150px; width: 100px; border: 2x solid; box-shadow: 10px 10px 10px;
 }
